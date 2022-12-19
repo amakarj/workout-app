@@ -1,5 +1,5 @@
 # Workout app
-**This repository is created for the frontend of our workout app. The project is for Mobile Programming course of Häme University of Applied Sciences. Here you can check the backend part.**
+**This repository is created for the frontend of our workout app. The project is for Mobile Programming course of Häme University of Applied Sciences. Here you can check [the backend](https://github.com/amakarj/BE_WorkoutApp) part.**
 
 <img width="280" alt="workoutapp-home" src="https://user-images.githubusercontent.com/75020361/208301164-e478ee98-40ff-4450-a8ee-9013c41efafb.png"><img width="280" alt="workoutapp-addex" src="https://user-images.githubusercontent.com/75020361/208301258-e8122ac9-e324-4b42-857b-83e06b387181.png">
 
